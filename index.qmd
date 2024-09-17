@@ -1,12 +1,54 @@
 ---
-title: "Test"
-format: revealjs
+format:
+  revealjs:
+    transition: fade
+    background-transition: fade
+    auto-slide: 5000
+    loop: true
+    include-before-body: "_timer_gen_fragment.html"
+preload-iframes: true
 ---
 
-## Hello
+## Welcome to GenAI in Pharma! {background-image="session_img/rph_background.png" background-size="cover"}
 
-This is a test slide
+### Enjoy some tunes while we get ready for an amazing event
 
-## Default timer
+## New slide
 
-{{< countdown >}}
+Is timer here?
+
+# {background-iframe="rotating-earth/index.html"}
+
+![](session_img/01_kickoff.png)
+
+# {background-iframe="glittering-sea/index.html"}
+
+![](session_img/02_opensource.png)
+
+# {background-iframe="center-of-universe/index.html"}
+
+![](session_img/03_landscape.png)
+
+# {background-iframe="colored-particles/index.html"}
+
+![](session_img/04_medwriting.png)
+
+# {background-iframe="night-sky/index.html"}
+
+![](session_img/05_hangout.png)
+
+# {background-iframe="space-scroller/index.html"}
+
+![](session_img/06_osmosis.png)
+
+# {background-iframe="stars/index.html"}
+
+![](session_img/07_regintel.png)
+
+# {background-iframe="tetris/index.html"}
+
+![](session_img/08_statprogram.png)
+
+# {background-iframe="boids/index.html"}
+
+![](session_img/09_clindev.png)
