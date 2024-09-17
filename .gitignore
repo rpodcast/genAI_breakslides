@@ -51,7 +51,6 @@ rsconnect/
 # quarto
 /.quarto/
 index_files/*
-index.html
 _site/
 
 # nixos
