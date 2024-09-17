@@ -1,0 +1,12 @@
+---
+title: "Test"
+format: revealjs
+---
+
+## Hello
+
+This is a test slide
+
+## Default timer
+
+{{< countdown >}}

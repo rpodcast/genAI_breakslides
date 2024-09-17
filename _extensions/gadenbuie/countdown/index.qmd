@@ -1,0 +1,13 @@
+---
+title: "GenAI Day"
+format: revealjs
+countdown:
+  font_size: 4rem
+  color_background: "lightblue"
+---
+
+## Hello World
+
+Hello
+
+{{< qrcode https://jmbuhr.de >}}
